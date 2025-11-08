@@ -1,0 +1,44 @@
+Welcome to GradeBook Analyzer!
+===================================
+Choose Input Method:
+1. Manual Entry
+2. Load from CSV File
+Enter your choice (1 or 2):  1
+
+Enter student names and marks. Type 'done' to finish.
+Enter student name:  Shubham
+Enter marks for Shubham:  75
+Enter student name:  Rahul
+Enter marks for Rahul:  85
+Enter student name:  rohit
+Enter marks for rohit:  65
+Enter student name:  shyam
+Enter marks for shyam:  95
+Enter student name:  done
+
+===== Analysis Summary =====
+Average Marks: 80.0
+Median Marks: 80.0
+Highest Marks: 95.0
+Lowest Marks: 65.0
+
+===== Grade Distribution =====
+A: 1
+B: 1
+C: 1
+D: 1
+F: 0
+
+===== Pass/Fail Summary =====
+Passed Students (4): Shubham, Rahul, rohit, shyam
+Failed Students (0): 
+
+===== Final Results Table =====
+Name		Marks	Grade
+----------------------------------
+Shubham		75.0	C
+Rahul		85.0	B
+rohit		65.0	D
+shyam		95.0	A
+
+Thank you for using GradeBook Analyzer!
